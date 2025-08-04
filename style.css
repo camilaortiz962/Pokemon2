@@ -1,0 +1,48 @@
+         body{
+           background-color: rgb(230, 233, 230);
+
+         }
+         h1{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color:  rgba(255, 146, 96, 0.492);
+            padding: 10px;
+            margin-left: 150px;
+            margin-right: 150px;
+
+         }
+         h4{
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 500;
+         }
+         ul>li{
+            line-height: 50;
+
+         }
+         
+         a.a{
+            color: rgb(9, 9, 9);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 20px;
+            margin-right: 30px;
+         }
+        h2{
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           background-color: rgba(255, 146, 96, 0.492);
+           padding: 10px;
+           display: inline-block;
+            
+
+         }
+         div{
+            background-color: rgb(255, 255, 255);
+            padding: 30px;
+            display: flex;
+            margin-left: 150px;
+            margin-right: 150px;
+
+         }
+         h5.menu{
+            margin-left: 150px;
+            margin-right: 150px;
+            display: flex;
+         }
